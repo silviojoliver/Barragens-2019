@@ -6,3 +6,17 @@ Conclusão:
 De todas as barragens categorizadas a maioria são de baixo risco e essas tem alto potencial de dano no caso de rompimento, sendo que 324 das 714 barragens do Brasil estão no estado de Minas Gerais.
 
 Das 714 barragens listadas, apenas 390 possuem categorias de risco e dano associados, ou seja, 45% das barragens do país são desconhecidas em termos de risco e dano potencial o que leva a necessidade de maior fiscalização e classificação dessas barragnes pelos orgãos público
+
+
+# Esta análise tem a intenção de explorar, analisar os dados.
+
+
+# Todas as versões do Relatório de Segurança de Barragens podem ser acessadas através do link:
+
+http://www.snisb.gov.br/portal/snisb.
+
+
+
+# O Relatório de Segurança das Barragens 2017 pode ser lido na integra através do link:
+
+http://www.snisb.gov.br/portal/snisb/relatorio-anual-de-seguranca-de-barragem/2017
